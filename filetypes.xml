@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
