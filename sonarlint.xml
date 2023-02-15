@@ -15,6 +15,7 @@
         </entry>
       </map>
     </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="Web:TableWithoutCaptionCheck" />
       <Rule active="false" key="Web:S5256" />
