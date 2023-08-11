@@ -1,6 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v14.20.0/bin/node" />
+    <option name="nodejsPath" value="$USER_HOME$/Library/Application Support/fnm/node-versions/v18.17.0/installation/bin/node" />
     <option name="rulesByKey">
       <map>
         <entry key="Web:S5256">
@@ -15,7 +15,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="Web:TableWithoutCaptionCheck" />
       <Rule active="false" key="Web:S5256" />
