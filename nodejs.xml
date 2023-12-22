@@ -4,7 +4,10 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/53691_1675326880286/bin/node">
-      <version-cache version="18.12.1" last-modified="1667579253000" />
+      <version-cache version="20.10.0" last-modified="1700641859000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/4411_1703237504903/bin/node">
+      <version-cache version="20.10.0" last-modified="1700641859000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.6.0/bin/node">
       <version-cache last-modified="0" />
@@ -27,6 +30,9 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.20.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/99810_1675399352202/bin/node">
+      <version-cache version="14.20.0" last-modified="1657168223000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.1/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
@@ -47,9 +53,6 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.2.1/bin/node">
       <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/99810_1675399352202/bin/node">
-      <version-cache version="14.20.0" last-modified="1657168223000" />
     </local-interpreter>
   </component>
 </application>
